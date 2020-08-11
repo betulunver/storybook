@@ -1,0 +1,12 @@
+button{
+    background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+}
+.active{
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+:disabled{
+  border: 2px solid #555555;
+}
